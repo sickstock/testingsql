@@ -1,1 +1,2 @@
-# testingsql ereerer
+my favorite hobby is trading
+
